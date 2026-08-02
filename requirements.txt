@@ -1,0 +1,17 @@
+fastapi==0.115.6
+starlette==0.41.3
+uvicorn
+streamlit
+requests
+pydantic
+pydantic-settings
+langchain
+langchain-core
+langchain-groq
+sentence-transformers
+faiss-cpu
+duckduckgo-search
+PyPDF2
+pytest
+httpx
+numpy

@@ -1,0 +1,252 @@
+[
+  {
+    "patient_name": "John Smith",
+    "discharge_date": "2024-01-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": ["Lisinopril 10mg daily", "Furosemide 20mg twice daily"],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Emily Carter",
+    "discharge_date": "2024-02-02",
+    "primary_diagnosis": "Acute Kidney Injury Recovery",
+    "medications": ["Amlodipine 5mg daily", "Calcium Carbonate 500mg twice daily"],
+    "dietary_restrictions": "Low potassium diet, adequate hydration",
+    "follow_up": "Primary care and nephrology follow-up in 1 week",
+    "warning_signs": "Reduced urine output, nausea, fatigue",
+    "discharge_instructions": "Avoid NSAIDs, drink fluids as advised, repeat kidney function tests"
+  },
+  {
+    "patient_name": "Michael Brown",
+    "discharge_date": "2024-02-10",
+    "primary_diagnosis": "Nephrotic Syndrome",
+    "medications": ["Prednisone 20mg daily", "Furosemide 40mg daily"],
+    "dietary_restrictions": "Low sodium diet, moderate protein intake",
+    "follow_up": "Nephrology clinic in 10 days",
+    "warning_signs": "Increased swelling, weight gain, foamy urine",
+    "discharge_instructions": "Track weight daily, take medications as prescribed, report worsening edema"
+  },
+  {
+    "patient_name": "Sophia Wilson",
+    "discharge_date": "2024-02-14",
+    "primary_diagnosis": "Hypertensive Nephropathy",
+    "medications": ["Losartan 50mg daily", "Hydrochlorothiazide 12.5mg daily"],
+    "dietary_restrictions": "Low sodium diet, fluid moderation",
+    "follow_up": "Blood pressure review in 2 weeks",
+    "warning_signs": "Headache, blurry vision, swelling",
+    "discharge_instructions": "Monitor blood pressure twice daily and maintain a salt-restricted diet"
+  },
+  {
+    "patient_name": "Daniel Lee",
+    "discharge_date": "2024-02-20",
+    "primary_diagnosis": "Diabetic Kidney Disease",
+    "medications": ["Metformin 500mg twice daily", "Losartan 25mg daily"],
+    "dietary_restrictions": "Controlled carbohydrate intake, low sodium diet",
+    "follow_up": "Diabetes and nephrology clinic in 2 weeks",
+    "warning_signs": "Leg swelling, high blood sugar, reduced urine output",
+    "discharge_instructions": "Monitor blood sugar and blood pressure daily"
+  },
+  {
+    "patient_name": "Olivia Martinez",
+    "discharge_date": "2024-02-25",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+    "medications": ["Sevelamer 800mg three times daily", "Erythropoietin as directed"],
+    "dietary_restrictions": "Low phosphorus, low potassium, low sodium diet",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Shortness of breath, severe fatigue, swelling",
+    "discharge_instructions": "Take phosphate binder with meals and track symptoms carefully"
+  },
+  {
+    "patient_name": "James Anderson",
+    "discharge_date": "2024-03-01",
+    "primary_diagnosis": "Kidney Stone Post-Procedure Recovery",
+    "medications": ["Tamsulosin 0.4mg daily", "Paracetamol 500mg as needed"],
+    "dietary_restrictions": "Increase fluids, avoid excess salt",
+    "follow_up": "Urology follow-up in 1 week",
+    "warning_signs": "Fever, severe flank pain, blood in urine",
+    "discharge_instructions": "Drink plenty of water and strain urine if instructed"
+  },
+  {
+    "patient_name": "Ava Thomas",
+    "discharge_date": "2024-03-05",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": ["Prednisolone 30mg daily", "Pantoprazole 40mg daily"],
+    "dietary_restrictions": "Low salt diet, fluid restriction if advised",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Dark urine, swelling, shortness of breath",
+    "discharge_instructions": "Take steroids exactly as prescribed and do not stop abruptly"
+  },
+  {
+    "patient_name": "William Harris",
+    "discharge_date": "2024-03-08",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 2",
+    "medications": ["Ramipril 5mg daily"],
+    "dietary_restrictions": "Moderate salt restriction, balanced hydration",
+    "follow_up": "Kidney function review in 1 month",
+    "warning_signs": "Fatigue, ankle swelling, reduced appetite",
+    "discharge_instructions": "Maintain hydration and attend follow-up blood tests"
+  },
+  {
+    "patient_name": "Mia Clark",
+    "discharge_date": "2024-03-11",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": ["Tolvaptan as directed", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Moderate sodium restriction, maintain hydration",
+    "follow_up": "Nephrology review in 2 weeks",
+    "warning_signs": "Severe pain, fever, blood in urine",
+    "discharge_instructions": "Drink water regularly and monitor for abdominal discomfort"
+  },
+  {
+    "patient_name": "Benjamin Lewis",
+    "discharge_date": "2024-03-15",
+    "primary_diagnosis": "Dialysis Follow-up Care",
+    "medications": ["Epoetin alfa as directed", "Iron supplement daily"],
+    "dietary_restrictions": "Fluid restriction, low potassium, low phosphorus diet",
+    "follow_up": "Dialysis center next scheduled session",
+    "warning_signs": "Breathing difficulty, chest discomfort, missed dialysis symptoms",
+    "discharge_instructions": "Do not miss dialysis sessions and check fistula access daily"
+  },
+  {
+    "patient_name": "Charlotte Walker",
+    "discharge_date": "2024-03-18",
+    "primary_diagnosis": "Urinary Tract Infection with Renal Involvement",
+    "medications": ["Cefixime 200mg twice daily", "Paracetamol 500mg as needed"],
+    "dietary_restrictions": "Adequate hydration, avoid bladder irritants",
+    "follow_up": "Primary care review in 5 days",
+    "warning_signs": "Fever, flank pain, vomiting",
+    "discharge_instructions": "Complete full antibiotic course and drink fluids regularly"
+  },
+  {
+    "patient_name": "Elijah Hall",
+    "discharge_date": "2024-03-21",
+    "primary_diagnosis": "Acute Tubular Necrosis Recovery",
+    "medications": ["Amlodipine 5mg daily", "Multivitamin once daily"],
+    "dietary_restrictions": "Moderate sodium restriction, renal-friendly diet",
+    "follow_up": "Renal blood work in 1 week",
+    "warning_signs": "Reduced urine output, confusion, severe swelling",
+    "discharge_instructions": "Track urine output and avoid dehydration"
+  },
+  {
+    "patient_name": "Amelia Young",
+    "discharge_date": "2024-03-25",
+    "primary_diagnosis": "Lupus Nephritis",
+    "medications": ["Mycophenolate mofetil 500mg twice daily", "Prednisone 10mg daily"],
+    "dietary_restrictions": "Low sodium diet",
+    "follow_up": "Rheumatology and nephrology follow-up in 1 week",
+    "warning_signs": "Swelling, joint pain flare, decreased urine output",
+    "discharge_instructions": "Take immunosuppressants regularly and watch for signs of infection"
+  },
+  {
+    "patient_name": "Lucas King",
+    "discharge_date": "2024-03-28",
+    "primary_diagnosis": "Post-Renal Transplant Monitoring",
+    "medications": ["Tacrolimus as directed", "Mycophenolate 500mg twice daily", "Prednisone 5mg daily"],
+    "dietary_restrictions": "Food safety precautions, balanced renal diet",
+    "follow_up": "Transplant clinic in 3 days",
+    "warning_signs": "Fever, decreased urine output, pain over graft site",
+    "discharge_instructions": "Take transplant medications exactly on time and monitor temperature"
+  },
+  {
+    "patient_name": "Harper Scott",
+    "discharge_date": "2024-04-01",
+    "primary_diagnosis": "CKD with Anemia",
+    "medications": ["Iron supplement daily", "Erythropoietin weekly"],
+    "dietary_restrictions": "Renal diet with monitored protein intake",
+    "follow_up": "Hemoglobin and renal review in 2 weeks",
+    "warning_signs": "Fatigue, dizziness, worsening weakness",
+    "discharge_instructions": "Take iron correctly and report shortness of breath"
+  },
+  {
+    "patient_name": "Henry Green",
+    "discharge_date": "2024-04-04",
+    "primary_diagnosis": "Acute Kidney Injury Secondary to Dehydration",
+    "medications": ["Oral rehydration as advised", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Adequate hydration, avoid nephrotoxic medicines",
+    "follow_up": "Repeat creatinine test in 3 days",
+    "warning_signs": "Very low urine output, dizziness, persistent vomiting",
+    "discharge_instructions": "Increase oral fluids as advised and avoid NSAIDs"
+  },
+  {
+    "patient_name": "Evelyn Adams",
+    "discharge_date": "2024-04-08",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3b",
+    "medications": ["Telmisartan 40mg daily", "Vitamin D supplement weekly"],
+    "dietary_restrictions": "Low sodium, low phosphorus diet",
+    "follow_up": "Nephrology follow-up in 2 weeks",
+    "warning_signs": "Swelling, worsening fatigue, loss of appetite",
+    "discharge_instructions": "Maintain renal diet and track blood pressure"
+  },
+  {
+    "patient_name": "Alexander Baker",
+    "discharge_date": "2024-04-12",
+    "primary_diagnosis": "Proteinuria Evaluation Follow-up",
+    "medications": ["Losartan 25mg daily"],
+    "dietary_restrictions": "Moderate protein, low sodium diet",
+    "follow_up": "Urine protein review in 10 days",
+    "warning_signs": "Foamy urine, swelling, high blood pressure",
+    "discharge_instructions": "Attend urine recheck and monitor swelling"
+  },
+  {
+    "patient_name": "Ella Nelson",
+    "discharge_date": "2024-04-16",
+    "primary_diagnosis": "Nephritic Syndrome",
+    "medications": ["Prednisolone 20mg daily", "Furosemide 20mg daily"],
+    "dietary_restrictions": "Low salt diet",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Dark urine, edema, decreased urine output",
+    "discharge_instructions": "Track swelling and urine output daily"
+  },
+  {
+    "patient_name": "Logan Carter",
+    "discharge_date": "2024-04-20",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 5",
+    "medications": ["Sevelamer 800mg three times daily", "Sodium bicarbonate as directed"],
+    "dietary_restrictions": "Strict renal diet, fluid restriction",
+    "follow_up": "Dialysis planning visit in 1 week",
+    "warning_signs": "Severe fatigue, swelling, breathlessness",
+    "discharge_instructions": "Follow renal diet strictly and report worsening symptoms immediately"
+  },
+  {
+    "patient_name": "Grace Mitchell",
+    "discharge_date": "2024-04-24",
+    "primary_diagnosis": "Interstitial Nephritis Recovery",
+    "medications": ["Prednisone 10mg daily", "Pantoprazole 40mg daily"],
+    "dietary_restrictions": "Balanced renal-safe diet",
+    "follow_up": "Renal review in 2 weeks",
+    "warning_signs": "Rash, fever, decreased urine output",
+    "discharge_instructions": "Avoid previously suspected offending medicines"
+  },
+  {
+    "patient_name": "Noah Perez",
+    "discharge_date": "2024-04-28",
+    "primary_diagnosis": "Fluid Overload in CKD",
+    "medications": ["Furosemide 40mg twice daily", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Fluid restriction (1.2L/day), low sodium diet",
+    "follow_up": "Nephrology clinic in 5 days",
+    "warning_signs": "Breathlessness, swelling, sudden weight gain",
+    "discharge_instructions": "Track weight daily and limit fluid intake"
+  },
+  {
+    "patient_name": "Alex Johnson",
+    "discharge_date": "2024-05-02",
+    "primary_diagnosis": "CKD Stage 3 with Hypertension",
+    "medications": ["Losartan 50mg daily", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Low sodium diet",
+    "follow_up": "Blood pressure and kidney review in 2 weeks",
+    "warning_signs": "Swelling, headache, reduced urine output",
+    "discharge_instructions": "Check blood pressure daily and avoid excess salt"
+  },
+  {
+    "patient_name": "Alex Johnson",
+    "discharge_date": "2024-05-05",
+    "primary_diagnosis": "Acute Kidney Injury Post-Infection",
+    "medications": ["Cefuroxime 500mg twice daily", "Paracetamol 500mg as needed"],
+    "dietary_restrictions": "Adequate hydration, light renal diet",
+    "follow_up": "Repeat renal function test in 4 days",
+    "warning_signs": "Fever, low urine output, severe weakness",
+    "discharge_instructions": "Finish antibiotics and return for repeat testing"
+  }
+]
