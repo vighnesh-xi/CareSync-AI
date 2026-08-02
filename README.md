@@ -1,6 +1,6 @@
-# CareSync AI
+# CareSync AI - Multi-Agent Patient Support Hub
 
-**Post-Discharge Medical AI Assistant for Chronic Kidney Disease (CKD)**
+**Multi-Agent Patient Support Hub**
 
 CareSync AI is a multi-agent conversational assistant that supports CKD patients after hospital discharge. It helps patients review their discharge report, answers clinical questions using nephrology reference materials (RAG), and falls back to web search for recent or specialized queries.
 
