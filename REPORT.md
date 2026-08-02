@@ -1,8 +1,8 @@
-# CareSync AI – Post Discharge Medical AI Assistant
+# CareSync AI – Multi-Agent Patient Support Hub
 
 ## 1. Overview
 
-CareSync AI is a multi-agent post-discharge assistant for patients with Chronic Kidney Disease (CKD). It combines a Receptionist Agent and a Clinical Agent to support name-based patient lookup, discharge-report review, symptom triage, and educational clinical guidance using Retrieval-Augmented Generation (RAG) over nephrology reference materials, plus web-search fallback for recent research queries.
+CareSync AI is a multi-agent assistant for patients with Chronic Kidney Disease (CKD). It combines a Receptionist Agent and a Clinical Agent to support name-based patient lookup, discharge-report review, symptom triage, and educational clinical guidance using Retrieval-Augmented Generation (RAG) over nephrology reference materials, plus web-search fallback for recent research queries.
 
 The system is implemented as a FastAPI backend with a Streamlit frontend, backed by SQLite for patient data and FAISS for vector search over nephrology reference text. All data used in the POC is synthetic; no real patient information is stored or processed.
 
