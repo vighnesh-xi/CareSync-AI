@@ -91,8 +91,15 @@ def render_sidebar():
     st.sidebar.write("Vector Search: FAISS")
     st.sidebar.write("Embeddings: Sentence-Transformers")
 
+    st.sidebar.markdown("---")
+
     if st.sidebar.button("Start New Session"):
         st.session_state.session_id = str(uuid.uuid4())
+        st.session_state.chat_history = []
+        st.session_state.session_started = False
+        st.rerun()
+
+    if st.sidebar.button("Clear Chat"):
         st.session_state.chat_history = []
         st.session_state.session_started = False
         st.rerun()
